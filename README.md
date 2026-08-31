@@ -1,6 +1,6 @@
 # SCOUT — Cohort 1
 
-### Building Thinkers. Producing Evidence. Creating Opportunities.
+### Springboard. Opportunities. Impact.
 
 Welcome to **SCOUT Cohort 1** — a practical Data Analysis and Research Training programme designed to help learners develop the skills to work with data, conduct meaningful research, communicate evidence, and solve real-world problems.
 
